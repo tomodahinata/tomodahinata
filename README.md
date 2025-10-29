@@ -91,8 +91,8 @@ Terraformを活用し、AWS上に再現性と保守性の高いインフラ環�
 (こちらのセクションは、GitHubでの活動量を可視化するために利用されます)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomodahinata&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomodahinata&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
