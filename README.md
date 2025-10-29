@@ -103,11 +103,9 @@ Terraformを活用し、AWS上に再現性と保守性の高いインフラ環�
 
 「こんなプロダクトを作りたい」「インフラをTerraformで管理したい」「技術的な相談がしたい」など、Web開発に関わることなら何でもお気軽にご相談ください。
 
-ご連絡は、以下のいずれかよりお願いいたします。
+ご連絡は、以下よりお願いいたします。
 
-* 📧 **Email:** `your-email@example.com`
-* **X (Twitter) DM:** `@[your_twitter_handle]`
-* **LinkedIn:** `https://linkedin.com/in/[your-linkedin-id]`
+* 📧 **Email:** `tomodahinata1234@gmail.com`
 
 最後までご覧いただきありがとうございました。
 ぜひ一度、お話できることを楽しみにしています。
