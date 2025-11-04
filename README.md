@@ -101,9 +101,10 @@
 * **AI (RAG) を自社サービスに組み込みたい企業**
 
 ご連絡は、以下よりお願いいたします。
-（ポートフォリオサイト等をお持ちの場合は、ここにリンクを貼ることを強く推奨します）
+
 
 * 📧 **Email:** `tomodahinata1234@gmail.com`
+*  **Portfolio:** `https://tomodahinata.com`
 
 ---
 
