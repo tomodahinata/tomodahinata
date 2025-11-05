@@ -104,7 +104,7 @@
 
 
 * 📧 **Email:** `tomodahinata1234@gmail.com`
-*  **Portfolio:** `https://tomodahinata.com`
+*  **Portfolio:** https://tomodahinata.com
 
 ---
 
