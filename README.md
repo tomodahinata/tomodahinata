@@ -33,6 +33,28 @@
 
 ---
 
+## 📈 客観評価 — 第三者ランキング実績
+
+受賞が「品質」の証明なら、こちらは **「需要と実績」の客観的な裏付け**。契約実績ランキングで**上位〜1位**にランクインしています。
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_%E9%80%B1%E9%96%93%20%E7%B7%8F%E5%90%88%E5%A5%91%E7%B4%84%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-%E7%AC%AC1%E4%BD%8D-B8860B?style=for-the-badge&labelColor=1a1a1a" alt="週間 総合契約ランキング 第1位">
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_%E9%80%B1%E9%96%93%20%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E9%83%A8%E9%96%80-%E7%AC%AC1%E4%BD%8D-B8860B?style=for-the-badge&labelColor=1a1a1a" alt="週間 エンジニア部門契約ランキング 第1位">
+
+</div>
+
+| ランキング | 期間 | 順位 |
+|---|---|:---:|
+| 総合 契約ランキング（週間） | 2026年2月 第1週 | 🥇 **1位** |
+| エンジニア部門 契約ランキング（週間） | 2026年2月 第1週 | 🥇 **1位** |
+| エンジニア部門 契約ランキング（月間） | 2026年2月 | **4位** |
+| 総合 契約ランキング（月間） | 2026年2月 | **6位** |
+
+<sub>出典: CrowdWorks 公開ランキング — <a href="https://crowdworks.jp/public/rankings/18453#user_4834688">総合(週間)</a> ・ <a href="https://crowdworks.jp/public/rankings/18526#user_4834688">エンジニア部門(月間)</a> ・ <a href="https://crowdworks.jp/public/rankings/18522#user_4834688">総合(月間)</a></sub>
+
+---
+
 ## 🚀 実績ハイライト（数字で語る）
 
 ### 1. 木材流通DX SaaS — 🏆 経済産業大臣賞 受賞 / 京都府認定
