@@ -1,0 +1,29 @@
+name: Latest blog posts
+
+# Pulls the newest posts from tomodahinata.com's RSS feed and rewrites the
+# region between the BLOG-POST-LIST markers in README.md. Runs daily and on
+# demand. The README is seeded with real posts, so it never renders empty even
+# before the first scheduled run.
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Sync latest posts into README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts from feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://tomodahinata.com/feed.xml"
+          max_post_count: 5
+          commit_message: "chore: update latest blog posts"
