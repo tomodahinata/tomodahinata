@@ -82,32 +82,42 @@
 > **全221API 認証欠落0件**（実在15ロールで第三者ペネトレ実証）・**4ラウンドのセキュリティ監査**・インフラ100% Terraform 化（17モジュール）<br>
 > `Python/Flask` `React/TS` `AWS ECS Fargate` `Cognito(RS256)` `Stripe Connect` `Terraform`
 
-### 2. 💳 [環境分野のサーバーレス決済プラットフォーム](https://tomodahinata.com/case-studies/payment-platform-reliability)
+### 2. 📺 [国内大手放送事業者の社内AIプラットフォーム](https://tomodahinata.com/case-studies/broadcaster-ai-content-platform)
+番組制作（ナレーション・テロップ校正・考査）を支援する5つのAIサービスを、**自作OIDC認証ハブ(BFF)** で単一SSO統合。放送事業者グレードの内部統制を IaC で構築。
+> **5つのAIサービスを単一SSOで統合**・テロップ誤字検出を約30%高速化・GCP全体を71 Terraformモジュールで100%コード化<br>
+> `Next.js 16` `自作OIDC(BFF)` `Gemini/Vertex AI` `FastAPI` `GCP(Cloud Run/Armor)` `Terraform`
+
+### 3. 💳 [環境分野のサーバーレス決済プラットフォーム](https://tomodahinata.com/case-studies/payment-platform-reliability)
 4バックエンド＋4フロントを横断実装し、**決済信頼性レイヤー**（冪等性・原子的トランザクション・無停止移行）を主導。
 > **本番での二重課金 0件** をサーバーレスで達成・**無停止13フェーズ移行**・担当コミット403件<br>
 > `Serverless` `決済信頼性` `冪等性` `Zero-downtime Migration`
 
-### 3. 🎬 [AI動画ローカライズ・リップシンク基盤 — クラウドワークス契約1位の案件](https://tomodahinata.com/case-studies/ai-video-localization-lipsync)
+### 4. 🎬 [AI動画ローカライズ・リップシンク基盤 — クラウドワークス契約1位の案件](https://tomodahinata.com/case-studies/ai-video-localization-lipsync)
 アップロードするだけで「音声分離→文字起こし→翻訳→多言語吹替→口元同期」を全自動で完走させる GPU 推論パイプライン。
 > **8ヶ国語**を全自動ローカライズ・発話区間検出で **GPUコスト約40%削減**・バックエンドテストカバレッジ100%<br>
 > `FastAPI` `Celery` `vLLM/Whisper` `Diffusion Lip-Sync` `Azure GPU(Spot)` `Terraform`
 
-### 4. 🗣 [RAG音声接客AI（生成AI音声チャットボット）](https://tomodahinata.com/case-studies/ai-voice-chatbot)
+### 5. 🗣 [RAG音声接客AI（生成AI音声チャットボット）](https://tomodahinata.com/case-studies/ai-voice-chatbot)
 社内ドキュメント（PDF/Excel/画像/動画）を pgvector の意味検索で横断活用し、専門商材の誤答を構造的に排除。PoC で終わらせない。
 > **回答精度90%超**・応答 **約1.5秒（約70%短縮）**・店舗スタッフの接客負荷 約50%削減<br>
 > `RAG` `AWS Bedrock` `Claude` `pgvector` `Whisper` `LangChain`
 
-### 5. 🏟 [複数人同時編集のリアルタイム試合記録アプリ](https://tomodahinata.com/case-studies/realtime-sports-scoring-app)
+### 6. 🎓 [金融教育のサブスク学習プラットフォーム](https://tomodahinata.com/case-studies/subscription-learning-platform)
+マルチチャネル課金・冪等な決済・代理店コミッションを、**Next.js 16 モノレポ（3アプリ・14パッケージ）** で本番運用。
+> **6系統の料金解決**・冪等な Stripe 決済・追記専用コミッション台帳・型安全規律で本番運用<br>
+> `Next.js 16` `Turborepo` `Stripe` `冪等決済` `型安全(Zod)`
+
+### 7. 🏟 [複数人同時編集のリアルタイム試合記録アプリ](https://tomodahinata.com/case-studies/realtime-sports-scoring-app)
 Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラスト設計** と、オフライン耐性のある冪等な同時入力を単独構築。
 > **69テーブル全RLS・280ポリシー**のゼロトラスト認可・オフライン耐性のある冪等同時入力<br>
 > `Expo(React Native)` `Next.js` `Supabase(RLS)` `Realtime`
 
-### 6. 🍜 [外国人旅行客向け 飲食店マッチングサイト](https://tomodahinata.com/case-studies/restaurant-matching)
+### 8. 🍜 [外国人旅行客向け 飲食店マッチングサイト](https://tomodahinata.com/case-studies/restaurant-matching)
 インバウンド向け toC サービス。Tinder風UI・多言語対応で言語の壁を解消。高トラフィック/UXに耐える設計。
 > **4ヶ国語対応**・Tinder風UI・署名付きURL等のセキュア設計<br>
 > `Next.js` `Go(並列処理)` `多言語` `Secure Design`
 
-<sub>💡 上記のほか、**国内大手放送事業者**向けの社内AIプラットフォーム（5つのAIサービスを自作OIDC認証ハブで単一SSO統合）や、金融リテラシー教育の **サブスク学習プラットフォーム**（Next.js 16モノレポ・冪等なStripe決済）など、NDA下のエンタープライズ案件も多数。実務コードの多くはクライアントの **プライベートリポジトリ（NDA）** にあり、設計判断の詳細は <a href="https://tomodahinata.com/case-studies">ポートフォリオ</a> にまとめています。</sub>
+<sub>💡 上記はいずれも **本番稼働中** の案件です。実務コードの多くはクライアントの **プライベートリポジトリ（NDA）** にあり、各案件の設計判断・アーキテクチャの詳細は <a href="https://tomodahinata.com/case-studies">ポートフォリオ</a> にまとめています。</sub>
 
 ---
 
