@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
-- [AI エージェントの Tool Use 本番設計：Claude と OpenAI の関数呼び出しを、冪等・安全・可観測に組む](https://tomodahinata.com/blog/ai-agent-tool-use-function-calling-production-design)
-- [Alembic 実践ガイド：SQLAlchemyスキーマをゼロダウンタイムで安全に進化させる](https://tomodahinata.com/blog/alembic-zero-downtime-migrations-sqlalchemy)
-- [2026年の認証基盤の選び方：Cognito・Auth0・Clerk・Supabase Auth 徹底比較と実装・移行ガイド](https://tomodahinata.com/blog/auth-platform-selection-2026-cognito-auth0-clerk-supabase)
-- [経済産業大臣賞 B2B SaaS のアーキテクチャ徹底解剖：マルチテナント認可・冪等な決済・4ラウンドのセキュリティ監査](https://tomodahinata.com/blog/award-winning-b2b-saas-architecture-deep-dive)
-- [AWS Cognito カスタム認証フロー実装ガイド：CUSTOM_AUTH チャレンジで OTP/パスワードレス、PIN は PBKDF2 で安全に保管する](https://tomodahinata.com/blog/aws-cognito-custom-authentication-pin-pbkdf2-passwordless-guide)
+- [AI駆動開発の品質ゲート設計：型・テスト・静的解析・セキュリティをCIで強制し、AIの速度を安全にする](https://tomodahinata.com/blog/ai-driven-development-quality-gates-ci-type-safety-test-security)
+- [AIリップシンク・トーキングヘッド モデル選定ガイド2026 — MuseTalk・LatentSync・Wav2Lip・SadTalkerを商用ライセンス・品質・速度・本番運用で選ぶ](https://tomodahinata.com/blog/ai-lip-sync-talking-head-model-selection-guide-2026)
+- [音源分離をAWSで本番スケールさせる：GPUバッチ処理基盤（SQS × ECS/Batch × S3）](https://tomodahinata.com/blog/audio-source-separation-aws-gpu-batch-pipeline)
+- [BS-RoFormer / Mel-Band RoFormer 完全ガイド：2026最高品質の音源分離を本番で使う](https://tomodahinata.com/blog/bs-roformer-mel-band-roformer-vocal-separation-guide)
+- [内製 vs 外注・SaaS vs スクラッチ：中小・スタートアップのための意思決定フレームワーク](https://tomodahinata.com/blog/build-vs-buy-saas-vs-scratch-inhouse-vs-outsource-guide)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
