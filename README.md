@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
-- [AI駆動開発の品質ゲート設計：型・テスト・静的解析・セキュリティをCIで強制し、AIの速度を安全にする](https://tomodahinata.com/blog/ai-driven-development-quality-gates-ci-type-safety-test-security)
-- [AIリップシンク・トーキングヘッド モデル選定ガイド2026 — MuseTalk・LatentSync・Wav2Lip・SadTalkerを商用ライセンス・品質・速度・本番運用で選ぶ](https://tomodahinata.com/blog/ai-lip-sync-talking-head-model-selection-guide-2026)
-- [音源分離をAWSで本番スケールさせる：GPUバッチ処理基盤（SQS × ECS/Batch × S3）](https://tomodahinata.com/blog/audio-source-separation-aws-gpu-batch-pipeline)
-- [BS-RoFormer / Mel-Band RoFormer 完全ガイド：2026最高品質の音源分離を本番で使う](https://tomodahinata.com/blog/bs-roformer-mel-band-roformer-vocal-separation-guide)
-- [内製 vs 外注・SaaS vs スクラッチ：中小・スタートアップのための意思決定フレームワーク](https://tomodahinata.com/blog/build-vs-buy-saas-vs-scratch-inhouse-vs-outsource-guide)
+- [LambdaからRDS/Auroraに繋ぐ：接続枯渇を防ぐRDS Proxy・Data API・VPC設計とコスト最適化](https://tomodahinata.com/blog/aws-lambda-rds-aurora-connection-management-rds-proxy-vpc-guide)
+- [Lambdaのテスト戦略：単体・結合・E2Eの設計、SDKモック、sam local、クラウドでの検証](https://tomodahinata.com/blog/aws-lambda-testing-strategy-unit-integration-mocking-sam-local-guide)
+- [Lambdaで本番HTTP APIを作る：API Gateway（REST/HTTP API）・Function URLs・ALBの選定と認証・検証・エラー設計](https://tomodahinata.com/blog/aws-lambda-api-gateway-function-urls-rest-api-production-guide)
+- [Lambdaの安全なデプロイ：バージョン・エイリアス・カナリアリリース（CodeDeploy）とSAM/CDK/Terraform選定](https://tomodahinata.com/blog/aws-lambda-deployment-versions-aliases-canary-sam-cdk-terraform-guide)
+- [ECS on Fargate オートスケーリング完全ガイド：ターゲット追跡・ステップ・SQSバックログパターンを本番品質で設計する](https://tomodahinata.com/blog/aws-ecs-fargate-auto-scaling-target-tracking-sqs-worker-guide)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
