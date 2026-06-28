@@ -203,9 +203,9 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 <!-- BLOG-POST-LIST:START -->
 - [LambdaからRDS/Auroraに繋ぐ：接続枯渇を防ぐRDS Proxy・Data API・VPC設計とコスト最適化](https://tomodahinata.com/blog/aws-lambda-rds-aurora-connection-management-rds-proxy-vpc-guide)
 - [Lambdaのテスト戦略：単体・結合・E2Eの設計、SDKモック、sam local、クラウドでの検証](https://tomodahinata.com/blog/aws-lambda-testing-strategy-unit-integration-mocking-sam-local-guide)
-- [Lambdaで本番HTTP APIを作る：API Gateway（REST/HTTP API）・Function URLs・ALBの選定と認証・検証・エラー設計](https://tomodahinata.com/blog/aws-lambda-api-gateway-function-urls-rest-api-production-guide)
-- [Lambdaの安全なデプロイ：バージョン・エイリアス・カナリアリリース（CodeDeploy）とSAM/CDK/Terraform選定](https://tomodahinata.com/blog/aws-lambda-deployment-versions-aliases-canary-sam-cdk-terraform-guide)
-- [ECS on Fargate オートスケーリング完全ガイド：ターゲット追跡・ステップ・SQSバックログパターンを本番品質で設計する](https://tomodahinata.com/blog/aws-ecs-fargate-auto-scaling-target-tracking-sqs-worker-guide)
+- [Next.js Server ActionsのCSRF / Origin対策 — 何が標準で守られ、何を足すべきか](https://tomodahinata.com/blog/nextjs-csrf-origin-protection-server-actions-guide)
+- [Next.jsの環境変数と秘密漏洩対策 — NEXT_PUBLIC_ の罠と、型付き env 境界](https://tomodahinata.com/blog/nextjs-env-secret-leak-prevention-public-vars-guide)
+- [Next.jsのオープンリダイレクト対策 — 認証 callbackUrl / redirect&lpar;&rpar; を検証する](https://tomodahinata.com/blog/nextjs-open-redirect-callback-url-prevention-guide)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
