@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
+- [AI生成コード（vibe coding）の脆弱性診断【2026年版】— 生成AIで増える脆弱性を、リリース前に潰す実践手順](https://tomodahinata.com/blog/ai-generated-code-vulnerability-assessment-vibe-coding-security-guide)
+- [ARPスプーフィング・中間者攻撃（MITM）の仕組みと防御【2026】— L2の信頼を突く攻撃を検知・無害化する](https://tomodahinata.com/blog/arp-spoofing-mitm-attack-detection-defense-guide)
+- [認証の脆弱性の完全攻略【2026】ユーザー名列挙・総当たり・2FAバイパス・パスワードリセット — 公式ドキュメント忠実版](https://tomodahinata.com/blog/authentication-vulnerabilities-brute-force-2fa-bypass-attack-guide)
 - [LambdaからRDS/Auroraに繋ぐ：接続枯渇を防ぐRDS Proxy・Data API・VPC設計とコスト最適化](https://tomodahinata.com/blog/aws-lambda-rds-aurora-connection-management-rds-proxy-vpc-guide)
 - [Lambdaのテスト戦略：単体・結合・E2Eの設計、SDKモック、sam local、クラウドでの検証](https://tomodahinata.com/blog/aws-lambda-testing-strategy-unit-integration-mocking-sam-local-guide)
-- [Next.js Server ActionsのCSRF / Origin対策 — 何が標準で守られ、何を足すべきか](https://tomodahinata.com/blog/nextjs-csrf-origin-protection-server-actions-guide)
-- [Next.jsの環境変数と秘密漏洩対策 — NEXT_PUBLIC_ の罠と、型付き env 境界](https://tomodahinata.com/blog/nextjs-env-secret-leak-prevention-public-vars-guide)
-- [Next.jsのオープンリダイレクト対策 — 認証 callbackUrl / redirect&lpar;&rpar; を検証する](https://tomodahinata.com/blog/nextjs-open-redirect-callback-url-prevention-guide)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
