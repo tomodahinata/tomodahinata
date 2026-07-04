@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
+- [Supabaseの RLS が「認証はするのに認可しない」とき — auth.role&lpar;&rpar; = &#39;authenticated&#39; が全行を漏らす仕組みと、所有者スコープの正しい書き方](https://tomodahinata.com/blog/supabase-rls-authenticated-vs-authorized-owner-scope-guide)
 - [Dependabot アラート優先順位付け完全ガイド：CVSS × EPSS × 到達可能性で『どれから直すか』を決める](https://tomodahinata.com/blog/dependabot-alerts-prioritization-cvss-epss-reachability-triage-guide)
 - [AI生成コード（vibe coding）の脆弱性診断【2026年版】— 生成AIで増える脆弱性を、リリース前に潰す実践手順](https://tomodahinata.com/blog/ai-generated-code-vulnerability-assessment-vibe-coding-security-guide)
 - [ARPスプーフィング・中間者攻撃（MITM）の仕組みと防御【2026】— L2の信頼を突く攻撃を検知・無害化する](https://tomodahinata.com/blog/arp-spoofing-mitm-attack-detection-defense-guide)
 - [認証の脆弱性の完全攻略【2026】ユーザー名列挙・総当たり・2FAバイパス・パスワードリセット — 公式ドキュメント忠実版](https://tomodahinata.com/blog/authentication-vulnerabilities-brute-force-2fa-bypass-attack-guide)
-- [LambdaからRDS/Auroraに繋ぐ：接続枯渇を防ぐRDS Proxy・Data API・VPC設計とコスト最適化](https://tomodahinata.com/blog/aws-lambda-rds-aurora-connection-management-rds-proxy-vpc-guide)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
