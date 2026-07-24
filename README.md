@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
-- [AI生成コードのレビュー術 — 自分が書いていないコードを自分の責任で出荷する](https://tomodahinata.com/blog/ai-generated-code-review-checklist-workflow-guide)
-- [Claude Codeを本番運用に耐えさせる — 権限設計・hooks・CLAUDE.md・セキュリティゲート](https://tomodahinata.com/blog/claude-code-production-operations-security-gates-guide)
-- [Cursorのセキュリティ実践 — Project Rules・秘密情報・Auto-run権限・生成diffレビュー](https://tomodahinata.com/blog/cursor-security-best-practices-rules-review-guide)
-- [Excel・FAX業務のデジタル化ロードマップ — レガシー産業DXの実例から](https://tomodahinata.com/blog/excel-fax-digitalization-roadmap-guide)
-- [IT導入補助金2026を発注者目線で解説 — 枠・補助率・対象と「対象外」のケース](https://tomodahinata.com/blog/it-introduction-subsidy-2026-buyer-guide)
+- [本番LLMアプリのキャッシュ戦略 2026：プロンプトキャッシュ＋セマンティックキャッシュでレイテンシとコストを削減](https://tomodahinata.com/blog/llm-application-caching-prompt-semantic-latency-cost-guide)
+- [本番LLM/AIアプリのデータプライバシー＆コンプライアンス実装ガイド 2026｜PII最小化・プロバイダのデータ利用・APPI/GDPR](https://tomodahinata.com/blog/llm-application-data-privacy-compliance-pii-appi-gdpr-guide)
+- [LLMアプリの評価・テスト実践ガイド 2026｜LLM-as-judge・回帰テスト・CIゲート](https://tomodahinata.com/blog/llm-application-evaluation-testing-llm-as-judge-ci-guide)
+- [本番LLMアプリの信頼性・回復性設計 2026｜多プロバイダ・フォールバック・リトライ・サーキットブレーカ・冪等性](https://tomodahinata.com/blog/llm-application-reliability-resilience-fallback-retry-guide)
+- [本番LLM/AIアプリのセキュリティ実装ガイド 2026｜OWASP LLM Top 10とプロンプトインジェクション対策](https://tomodahinata.com/blog/llm-application-security-owasp-top-10-prompt-injection-guide)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
