@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
+- [HS256 と RS256 の違いを、仕様と実測で決着させる — JWT署名方式の選定・鍵ローテーション・無停止移行](https://tomodahinata.com/blog/jwt-hs256-vs-rs256-signing-algorithm-selection-key-rotation-guide)
 - [NEXT_PUBLIC_ と service_role — AIが書いた「APIキー」がなぜ他人に見えるのか](https://tomodahinata.com/blog/ai-app-api-key-exposure-explained)
 - [公開したら請求が跳ねた — 従量課金の事故と、上限の設定方法](https://tomodahinata.com/blog/ai-app-cloud-bill-spike-prevention)
 - [個人情報・特商法・プライバシーポリシー — AIアプリを商用公開する前の法務チェック](https://tomodahinata.com/blog/ai-app-legal-checklist-japan)
 - [AIに決済を作らせたとき、二重課金が起きる理由と防ぎ方](https://tomodahinata.com/blog/ai-app-payment-double-charge-prevention)
-- [AIで作ったアプリを公開する前に — 非エンジニアのための本番リリース全ガイド](https://tomodahinata.com/blog/ai-app-pre-launch-guide-for-non-engineers)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
