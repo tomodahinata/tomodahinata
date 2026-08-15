@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
+- [ログイン不要の生成AIチャットを『請求書破産』から守る — エッジ多層防御と、一貫性モデルで選ぶデータストア](https://tomodahinata.com/blog/anonymous-ai-chat-cost-dos-defense-edge-rate-limiting-turnstile-guide)
+- [JWTの署名はなぜ破れないのか — 暗号理論とPyJWT 2.13.0のソースコードで解剖する署名検証](https://tomodahinata.com/blog/jwt-signature-verification-cryptography-pyjwt-source-code-analysis-guide)
 - [HS256 と RS256 の違いを、仕様と実測で決着させる — JWT署名方式の選定・鍵ローテーション・無停止移行](https://tomodahinata.com/blog/jwt-hs256-vs-rs256-signing-algorithm-selection-key-rotation-guide)
 - [NEXT_PUBLIC_ と service_role — AIが書いた「APIキー」がなぜ他人に見えるのか](https://tomodahinata.com/blog/ai-app-api-key-exposure-explained)
 - [公開したら請求が跳ねた — 従量課金の事故と、上限の設定方法](https://tomodahinata.com/blog/ai-app-cloud-bill-spike-prevention)
-- [個人情報・特商法・プライバシーポリシー — AIアプリを商用公開する前の法務チェック](https://tomodahinata.com/blog/ai-app-legal-checklist-japan)
-- [AIに決済を作らせたとき、二重課金が起きる理由と防ぎ方](https://tomodahinata.com/blog/ai-app-payment-double-charge-prevention)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
