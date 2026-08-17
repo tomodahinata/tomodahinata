@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
-- [ログイン不要の生成AIチャットを『請求書破産』から守る — エッジ多層防御と、一貫性モデルで選ぶデータストア](https://tomodahinata.com/blog/anonymous-ai-chat-cost-dos-defense-edge-rate-limiting-turnstile-guide)
-- [JWTの署名はなぜ破れないのか — 暗号理論とPyJWT 2.13.0のソースコードで解剖する署名検証](https://tomodahinata.com/blog/jwt-signature-verification-cryptography-pyjwt-source-code-analysis-guide)
-- [HS256 と RS256 の違いを、仕様と実測で決着させる — JWT署名方式の選定・鍵ローテーション・無停止移行](https://tomodahinata.com/blog/jwt-hs256-vs-rs256-signing-algorithm-selection-key-rotation-guide)
-- [NEXT_PUBLIC_ と service_role — AIが書いた「APIキー」がなぜ他人に見えるのか](https://tomodahinata.com/blog/ai-app-api-key-exposure-explained)
-- [公開したら請求が跳ねた — 従量課金の事故と、上限の設定方法](https://tomodahinata.com/blog/ai-app-cloud-bill-spike-prevention)
+- [Gitで消えた作業を取り戻す：reflog・fsck・cruft packの仕組みから導く復旧手順](https://tomodahinata.com/blog/git-history-recovery-reflog-fsck-cruft-pack-guide)
+- [Gitの仕組みを内部構造から理解する：オブジェクト・参照・インデックス・パックファイルの実践ガイド](https://tomodahinata.com/blog/git-internals-object-model-refs-index-packfile-guide)
+- [Supabase Auth 実装ガイド：認証フローの選定・JWT署名鍵・セッション・MFA を本番品質で設計する](https://tomodahinata.com/blog/supabase-auth-production-implementation-guide-flows-jwt-signing-keys-sessions-mfa)
+- [Supabase Edge Functions 実践ガイド：@supabase/server・背景タスク・制約の中で本番運用する](https://tomodahinata.com/blog/supabase-edge-functions-production-guide-with-supabase-background-tasks-limits)
+- [Supabase Realtime 実装ガイド：Broadcast・Presence・Postgres Changes の使い分けと、本番で壊れないリアルタイム設計](https://tomodahinata.com/blog/supabase-realtime-broadcast-presence-postgres-changes-production-implementation-guide)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
