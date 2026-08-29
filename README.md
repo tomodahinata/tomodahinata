@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
+- [なぜRDBはB-Tree、KVSはハッシュテーブルなのか — O&lpar;log N&rpar; と O&lpar;1&rpar; を分ける内部アルゴリズム](https://tomodahinata.com/blog/kvs-rdbms-internal-algorithms-btree-hash-table-complexity-guide)
+- [発注者が書く要件定義とRFP：「思っていたものと違う」を防ぐために、何を書き、何を書かないか](https://tomodahinata.com/blog/system-development-rfp-requirements-definition-guide)
+- [システム開発の総コスト：見積書に出てこない費用と、5年で差がつく4つのポイント【発注者ガイド】](https://tomodahinata.com/blog/system-development-total-cost-of-ownership-guide)
 - [Gitで消えた作業を取り戻す：reflog・fsck・cruft packの仕組みから導く復旧手順](https://tomodahinata.com/blog/git-history-recovery-reflog-fsck-cruft-pack-guide)
 - [Gitの仕組みを内部構造から理解する：オブジェクト・参照・インデックス・パックファイルの実践ガイド](https://tomodahinata.com/blog/git-internals-object-model-refs-index-packfile-guide)
-- [Supabase Auth 実装ガイド：認証フローの選定・JWT署名鍵・セッション・MFA を本番品質で設計する](https://tomodahinata.com/blog/supabase-auth-production-implementation-guide-flows-jwt-signing-keys-sessions-mfa)
-- [Supabase Edge Functions 実践ガイド：@supabase/server・背景タスク・制約の中で本番運用する](https://tomodahinata.com/blog/supabase-edge-functions-production-guide-with-supabase-background-tasks-limits)
-- [Supabase Realtime 実装ガイド：Broadcast・Presence・Postgres Changes の使い分けと、本番で壊れないリアルタイム設計](https://tomodahinata.com/blog/supabase-realtime-broadcast-presence-postgres-changes-production-implementation-guide)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
