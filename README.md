@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
-- [ローカルRAGの作り方：Ollama × sqlite-vec で「自分のPCだけ」で動く検索を組む（精度が出ない原因つき）](https://tomodahinata.com/blog/local-rag-ollama-sqlite-vec-embedding-accuracy-guide)
-- [Kysely 本番運用ガイド：型安全SQLクエリビルダを「ORMを使わない」選択肢として設計する（2026）](https://tomodahinata.com/blog/kysely-typescript-type-safe-sql-query-builder-production-guide)
-- [システム開発の検収 実務ガイド：発注者が「中身を読めないもの」をどう受け入れるか（民法・2026年施行の新法対応）](https://tomodahinata.com/blog/system-development-acceptance-inspection-guide)
-- [なぜRDBはB-Tree、KVSはハッシュテーブルなのか — O&lpar;log N&rpar; と O&lpar;1&rpar; を分ける内部アルゴリズム](https://tomodahinata.com/blog/kvs-rdbms-internal-algorithms-btree-hash-table-complexity-guide)
-- [発注者が書く要件定義とRFP：「思っていたものと違う」を防ぐために、何を書き、何を書かないか](https://tomodahinata.com/blog/system-development-rfp-requirements-definition-guide)
+- [App Attest・Play Integrity のサーバー検証を Python で実装する：本物のアプリからの呼び出しだけに、原価のかかる AI API を開く](https://tomodahinata.com/blog/app-attest-play-integrity-server-verification-ai-api-abuse-guide)
+- [Expo でサーバーなしのオフライン iOS アプリを設計する：expo-sqlite マイグレーション・暗号化バックアップ・StoreKit 2 買い切りを本番コードで解説](https://tomodahinata.com/blog/expo-offline-first-ios-app-sqlite-migration-storekit2-guide)
+- [フォントの対応文字をJavaScriptで判定する：cmapでグリフの有無と描画幅を調べ、異体字・機種依存文字・祝日込みの納期まで注文時点で検出する](https://tomodahinata.com/blog/font-glyph-coverage-check-javascript-cmap-guide)
+- [React Native / Expo × Swift ネイティブモジュール実装ガイド：Expo Modules API と Turbo Native Modules を本番コードで使い分ける](https://tomodahinata.com/blog/react-native-expo-swift-native-module-bridge-guide)
+- [法令の計算をTypeScriptで実装する：失業保険（基本手当）の計算ロジックを純粋関数・改定テーブル・公表計算例のテストで作る](https://tomodahinata.com/blog/statutory-calculation-typescript-unemployment-insurance-pure-functions-testing-guide)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
