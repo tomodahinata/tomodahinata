@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
-- [Exactly-onceは何を保証するのか：配信・処理・効果を区別し、冪等キーとReconciliationで外部APIの副作用を1回に収束させる](https://tomodahinata.com/blog/exactly-once-at-least-once-idempotency-effectively-once-guide)
-- [Outbox Dispatcherを複数workerで安全に動かす：FOR UPDATE SKIP LOCKEDだけでは足りない理由とLease・Fencing Token](https://tomodahinata.com/blog/outbox-dispatcher-skip-locked-lease-fencing-token-guide)
-- [PostgreSQL Advisory Lock 実践：FOR UPDATE では防げない check-then-insert の競合を pg_advisory_xact_lock で直列化する](https://tomodahinata.com/blog/postgresql-advisory-lock-pg-advisory-xact-lock-race-condition-guide)
-- [Reconciliation（整合性チェック）の設計：DBとStripeのズレを検出・分類し、Outbox経由で安全に修復する](https://tomodahinata.com/blog/reconciliation-architecture-drift-detection-repair-guide)
-- [Webhookの冪等性をTransactional Inboxで実装する：イベントIDの重複排除だけでは防げない『永久消失』と『二重処理』](https://tomodahinata.com/blog/webhook-idempotency-transactional-inbox-postgresql-guide)
+- [AIで作ったアプリに、人によるセキュリティ診断は必要？ — 要る人・要らない人の判断表と、費用・時期・頼み方](https://tomodahinata.com/blog/ai-app-security-review-need-cost-timing)
+- [Claude Code を組織に導入するときのセキュリティ・ガバナンス設計 — 権限モード・managed settings・サンドボックス・CI](https://tomodahinata.com/blog/claude-code-enterprise-security-governance-managed-settings-guide)
+- [Claude Code で第三者の MCP サーバーを安全に使う — 信頼の判断、許可リスト、managed-mcp.json](https://tomodahinata.com/blog/claude-code-mcp-server-security-third-party-trust-guide)
+- [SaaSに顧客の実データを入れる前のセキュリティチェックリスト — テナント分離・鍵・バックアップ・漏えい報告まで](https://tomodahinata.com/blog/saas-pre-production-data-security-checklist)
+- [本番環境しかなくてもセキュリティ診断はできる？ — 本番に触れない診断・読むだけの確認・ステージングが要る試験の分け方](https://tomodahinata.com/blog/security-audit-production-only-no-staging-guide)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
