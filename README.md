@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
+- [Binance 63億ドル流出（2026年10月）の技術解説 — 秘密鍵を守っても資産は出ていく。署名パイプラインを守る出金ポリシーの設計](https://tomodahinata.com/blog/binance-hack-2026-wallet-signing-security-analysis)
+- [お名前.com デスクトップクラウド不正アクセス（2026年10月）の技術解説 — 26,739件は「侵害数」ではない。クラウド型RDP環境の信頼境界と、取引口座への波及を止める設計](https://tomodahinata.com/blog/gmo-desktop-cloud-hack-2026-security-analysis)
+- [PHP2Shell（CVE-2026-109618・CVE-2026-109619）の技術解説 — 2つの脆弱性は別物。修正差分から読む「破れた不変条件」と、運用者が今日確認すること](https://tomodahinata.com/blog/php2shell-cve-2026-109618-109619-rce-analysis)
 - [ハモリだけを抽出する方法：UVR5の2段階分離と「ハモリを残したカラオケ」の作り方](https://tomodahinata.com/blog/harmony-backing-vocal-extraction-uvr5-guide)
 - [ポートスキャンとは？攻撃の前触れかの見分け方・ログの確かめ方・防ぎ方と、脆弱性診断との違い](https://tomodahinata.com/blog/port-scan-detection-prevention-vulnerability-assessment-guide)
-- [AIで作ったアプリに、人によるセキュリティ診断は必要？ — 要る人・要らない人の判断表と、費用・時期・頼み方](https://tomodahinata.com/blog/ai-app-security-review-need-cost-timing)
-- [Claude Code を組織に導入するときのセキュリティ・ガバナンス設計 — 権限モード・managed settings・サンドボックス・CI](https://tomodahinata.com/blog/claude-code-enterprise-security-governance-managed-settings-guide)
-- [Claude Code で第三者の MCP サーバーを安全に使う — 信頼の判断、許可リスト、managed-mcp.json](https://tomodahinata.com/blog/claude-code-mcp-server-security-third-party-trust-guide)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
