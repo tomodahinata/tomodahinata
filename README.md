@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
-- [連携アプリ（OAuth・サービスプリンシパル）の権限をどう設計し、棚卸しし、検知するか：ConnectWise事例から作る側・組み込む側の最小権限](https://tomodahinata.com/blog/oauth-service-principal-least-privilege-supply-chain-guide)
-- [AIペネトレーションテストは人間のセキュリティ診断を代替できるのか？ARTEXから考える精度・限界・導入判断](https://tomodahinata.com/blog/ai-pentesting-artex-human-security-audit-comparison)
-- [ARTEX型AI攻撃にWebアプリはどう備えるべきか？Next.js・API・Supabaseの認可設計を、実際に動かして検証する](https://tomodahinata.com/blog/artex-agentic-ai-web-application-security-defense)
-- [ARTEXとは？AIによる自律型ペネトレーションテストの仕組みと内部アーキテクチャを、公開分析から読み解く](https://tomodahinata.com/blog/artex-ai-pentesting-architecture-guide)
-- [Binance 63億ドル流出（2026年10月）の技術解説 — 秘密鍵を守っても資産は出ていく。署名パイプラインを守る出金ポリシーの設計](https://tomodahinata.com/blog/binance-hack-2026-wallet-signing-security-analysis)
+- [Excelの手作業を自動化する方法｜Excelを残したまま転記・集計を減らす](https://tomodahinata.com/blog/excel-manual-work-automation-small-business)
+- [製造業・BtoB企業がホームページから新規取引先を獲得するための改善方法｜技術情報の載せ方と図面・NDAの受付設計](https://tomodahinata.com/blog/manufacturing-b2b-website-inquiry-acquisition)
+- [月額5万〜10万円のSEO・Webサイト運用で何を依頼できる？ 作業時間の計算と契約の確認点](https://tomodahinata.com/blog/monthly-seo-website-operations-5-10man)
+- [IT担当者がいない会社のWebサイト保守｜ドメイン・バックアップ・責任分界を自社で持つ](https://tomodahinata.com/blog/no-it-staff-website-maintenance-outsourcing)
+- [Excel・メールの見積依頼を一元化する方法｜台帳から始める5段階と止めどき](https://tomodahinata.com/blog/quotation-request-management-excel-email)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
