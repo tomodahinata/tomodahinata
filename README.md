@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
-- [Excelの手作業を自動化する方法｜Excelを残したまま転記・集計を減らす](https://tomodahinata.com/blog/excel-manual-work-automation-small-business)
-- [製造業・BtoB企業がホームページから新規取引先を獲得するための改善方法｜技術情報の載せ方と図面・NDAの受付設計](https://tomodahinata.com/blog/manufacturing-b2b-website-inquiry-acquisition)
-- [月額5万〜10万円のSEO・Webサイト運用で何を依頼できる？ 作業時間の計算と契約の確認点](https://tomodahinata.com/blog/monthly-seo-website-operations-5-10man)
-- [IT担当者がいない会社のWebサイト保守｜ドメイン・バックアップ・責任分界を自社で持つ](https://tomodahinata.com/blog/no-it-staff-website-maintenance-outsourcing)
-- [Excel・メールの見積依頼を一元化する方法｜台帳から始める5段階と止めどき](https://tomodahinata.com/blog/quotation-request-management-excel-email)
+- [CPU・GPU・TPUの違いと選び方 — シストリックアレイ・メモリ帯域・1Mトークン原価で比べる](https://tomodahinata.com/blog/cpu-gpu-tpu-comparison-ai-workload-tco-selection-guide)
+- [CPUとGPUは何が違うのか — パイプライン・アウトオブオーダー実行・SIMT・Rooflineを数式と実測で読み解く](https://tomodahinata.com/blog/cpu-vs-gpu-architecture-pipeline-simt-roofline-explained)
+- [CUDAの仕組みとGPUプログラミング入門 — カーネル・PTX/SASS・メモリ階層・同期を完全なコードで理解する](https://tomodahinata.com/blog/cuda-programming-model-ptx-memory-hierarchy-guide)
+- [ジェンスン・ファンの人物史と技術経営 — 生い立ち・経歴・CUDAの決断を、本人の言葉と記録から検証する](https://tomodahinata.com/blog/jensen-huang-biography-technology-leadership)
+- [ジェンスン・ファンのNVIDIA CEO辞任 — 確認された事実・報道・本人の言葉を分けて読む、創業者依存と企業統治](https://tomodahinata.com/blog/jensen-huang-resignation-nvidia-ceo-transition-governance)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
