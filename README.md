@@ -201,11 +201,11 @@ Expo + Next.js + Supabase モノレポ。認可をDBに寄せた **ゼロトラ�
 設計判断の「なぜ」を、実装に踏み込んで言語化しています。
 
 <!-- BLOG-POST-LIST:START -->
+- [BluetoothとWi-Fiの違い｜OSI参照モデル・TCP/IP・HTTP・FTP・BLEの仕組み](https://tomodahinata.com/blog/bluetooth-vs-wifi-osi-tcp-ip-http-ftp-guide)
 - [CPU・GPU・TPUの違いと選び方 — シストリックアレイ・メモリ帯域・1Mトークン原価で比べる](https://tomodahinata.com/blog/cpu-gpu-tpu-comparison-ai-workload-tco-selection-guide)
 - [CPUとGPUは何が違うのか — パイプライン・アウトオブオーダー実行・SIMT・Rooflineを数式と実測で読み解く](https://tomodahinata.com/blog/cpu-vs-gpu-architecture-pipeline-simt-roofline-explained)
 - [CUDAの仕組みとGPUプログラミング入門 — カーネル・PTX/SASS・メモリ階層・同期を完全なコードで理解する](https://tomodahinata.com/blog/cuda-programming-model-ptx-memory-hierarchy-guide)
 - [ジェンスン・ファンの人物史と技術経営 — 生い立ち・経歴・CUDAの決断を、本人の言葉と記録から検証する](https://tomodahinata.com/blog/jensen-huang-biography-technology-leadership)
-- [ジェンスン・ファンのNVIDIA CEO辞任 — 確認された事実・報道・本人の言葉を分けて読む、創業者依存と企業統治](https://tomodahinata.com/blog/jensen-huang-resignation-nvidia-ceo-transition-governance)
 <!-- BLOG-POST-LIST:END -->
 
 📚 すべての記事 → **[tomodahinata.com/blog](https://tomodahinata.com/blog)** ／ [Zenn](https://zenn.dev/tomodahinata) ／ [note](https://note.com/tomodahinata)
